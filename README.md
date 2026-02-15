@@ -1,17 +1,13 @@
 # TR104_Daily_diary
-# Daily Diary Log
 
-This document serves as a chronological log of daily activities and progress, extracted from the Google Sheet "Daily Diary."
+## Om Raja
+### URN: 2203743
+### Role : Backend Developer
+### Mentor : Himanshu Garg (Backend Developer at The Iron Network, 2 Years of experience)
+### Coompany: The Iron Network Pvt. Ltd., Mohali 
 
-## Sheet Structure
-
-| Column Name      | Description                                                          |
-| :--------------: | :------------------------------------------------------------------: |
-| **Date**         | The date the activity was performed.                                 |
-| **What I did ?** | A description of the work, study, or activity completed on that day. |
 
 ## Daily Log (Chronological)
-
 Below is a detailed log of activities, with each day listed separately:
 
   * **5-Jan-2026:** Let Us C, Chapter-1: Getting started theory
