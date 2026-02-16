@@ -65,3 +65,4 @@ Let us C: Chapter-2 The decisions control structures, using Go lang"
   * **13-Feb-2026:** Let us C: Chapter-2, using Go lang, Debugged solutions of Chapter-1
   * **14-Feb-2026:** Let us C: Chapter-2, using Go lang
   * **15-Feb-2026:** Sunday
+  * **16-Feb-2026:** Let us C: Chapter-2, using Go lang
