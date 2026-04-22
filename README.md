@@ -124,3 +124,10 @@ Let us C: Chapter-2 The decisions control structures, using Go lang"
   * **13-Apr-2026:** Sample APIs tasks task 8
   * **14-Apr-2026:** Sample APIs tasks task 8 continued...
   * **15-Apr-2026:** Completed export response as CSV/Excel, Started working on importing CSV/Excel
+  * **16-Apr-2026:** Task 9 about Importing data from excel/csv to mongodb completed. Started task 10 about sending email using aws SES package. (SES: Simple Email Service)
+  * **17-Apr-2026:** Task 10 (Send email using aws SES) finished. And Done SMS response from API using Twilio package.
+  * **18-Apr-2026:** Saturday
+  * **19-Apr-2026:** Sunday
+  * **20-Apr-2026:** Reviewed the whole code of All APIs that I wrote to check commenting, naming and logical error.
+  * **21-Apr-2026:** Fixed all the mistakes found in the code.
+  * **22-Apr-2026:** Started working on system log.
