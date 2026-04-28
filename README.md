@@ -131,3 +131,9 @@ Let us C: Chapter-2 The decisions control structures, using Go lang"
   * **20-Apr-2026:** Reviewed the whole code of All APIs that I wrote to check commenting, naming and logical error.
   * **21-Apr-2026:** Fixed all the mistakes found in the code.
   * **22-Apr-2026:** Started working on system log.
+  * **23-Apr-2026:** Added system log creation till API 5
+  * **24-Apr-2026:** Completed system logs for all APIs. Started fixing the app version 2, on the basis of AI review of the whole codebase of v1
+  * **25-Apr-2026:** Fixing of app continued... (on the basis of AI review google sheet) Review section: Business Logic Correctness.
+  * **26-Apr-2026:** Sunday
+  * **27-Apr-2026:** Fixing of app continued... (on the basis of AI review google sheet) Review section: Code Quality.
+  * **28-Apr-2026:** Fixing of app continued... (on the basis of AI review google sheet) Review section: Code Quality.
