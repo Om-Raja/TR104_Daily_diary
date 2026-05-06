@@ -137,3 +137,11 @@ Let us C: Chapter-2 The decisions control structures, using Go lang"
   * **26-Apr-2026:** Sunday
   * **27-Apr-2026:** Fixing of app continued... (on the basis of AI review google sheet) Review section: Code Quality.
   * **28-Apr-2026:** Fixing of app continued... (on the basis of AI review google sheet) Review section: Code Quality.
+  * **29-Apr-2026:** Fixing of app continued... (on the basis of AI review google sheet) Review section: Code Quality, Architecture, Design, Rest API, Full Naming.
+  * **30-Apr-2026:** Started fixing import articles from a file API to support bulk import instead of importing one by one. Also started Next 4 API design for reporting last month and last week articles.
+  * **1-May-2026:** Fixed bulk import API unexpected behavior. Completed Next 4 API design for last month and last week articles report.
+  * **2-May-2026:** Saturday
+  * **3-May-2026:** Sunday
+  * **4-May-2026:** Added 1 lakh+ articles for past month data to test response time of report API. Used multithreading in report API to reduce response time.
+  * **5-May-2026:** Explored other possible ways to reduce response time of the report API. Found aggregation with multithreading to be the best approach. Started reading documentation of reporter package.
+  * **6-May-2026:** Continued reading documentation of logger package.
