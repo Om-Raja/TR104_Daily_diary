@@ -145,3 +145,14 @@ Let us C: Chapter-2 The decisions control structures, using Go lang"
   * **4-May-2026:** Added 1 lakh+ articles for past month data to test response time of report API. Used multithreading in report API to reduce response time.
   * **5-May-2026:** Explored other possible ways to reduce response time of the report API. Found aggregation with multithreading to be the best approach. Started reading documentation of reporter package.
   * **6-May-2026:** Continued reading documentation of logger package.
+  * **7-May-2026:** Added reporter till 5th APIs.
+  * **8-May-2026:** Added reporter in all the APIs except the last one.
+  * **9-May-2026:** Added reporter in the 12th API. Added notification log for email/SMS.
+  * **10-May-2026:** Sunday
+  * **11-May-2026:** Rechecked all APIs and tested.
+  * **12-May-2026:** Added error codes in errors.
+  * **13-May-2026:** Fixed bad code design created after adding error codes.
+  * **14-May-2026:** Added validate tags on structs used for decoding request bodies.
+  * **15-May-2026:** Added validate tags on structs to validate request bodies.
+  * **16-May-2026:** Saturday
+  * **17-May-2026:** Sunday
