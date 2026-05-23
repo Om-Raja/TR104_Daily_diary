@@ -156,3 +156,10 @@ Let us C: Chapter-2 The decisions control structures, using Go lang"
   * **15-May-2026:** Added validate tags on structs to validate request bodies.
   * **16-May-2026:** Saturday
   * **17-May-2026:** Sunday
+  * **18-May-2026:** Learnt about util package. Checked company's common/util package. Used util functions in my project and created a few util functions.
+  * **19-May-2026:** Updated validate tags on structs. Checked all APIs to identify where generic functions could be used.
+  * **20-May-2026:** Studied struct-level validation and pagination. Applied pagination on GetArticlesWithAuthor API.
+  * **21-May-2026:** Optimized pagination on GetArticlesWithAuthor API.
+  * **22-May-2026:** Added pagination in FilterArticles API and introduced more filters and sorting keys.
+  * **23-May-2026:** Saturday
+  * **24-May-2026:** Sunday
