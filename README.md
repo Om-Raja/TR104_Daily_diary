@@ -163,3 +163,10 @@ Let us C: Chapter-2 The decisions control structures, using Go lang"
   * **22-May-2026:** Added pagination in FilterArticles API and introduced more filters and sorting keys.
   * **23-May-2026:** Saturday
   * **24-May-2026:** Sunday
+  * **25-May-2026:** Fixed pagination bug. Added `full_name` in author's document. Modified all APIs that add authors to also add the author's `full_name`. Added code to detect the last page in pagination.
+  * **26-May-2026:** Optimised `FilterArticles` and `GetArticlesWithAuthor` after adding pagination. Modified both APIs to return top-up articles to fill empty space created by deleted articles.
+  * **27-May-2026:** Fixed API issues based on feedback from Himanshu sir. Created Version 3 of the Articles app. Modified `FilterArticle` API from filter-based functionality to search functionality and added date-range filtering.
+  * **28-May-2026:** Optimised `FilterArticles` API by refactoring the pipeline creator function and adding validation for date ranges.
+  * **29-May-2026:** Re-checked APIs 1 to 7. Refactored and optimised code wherever required.
+  * **30-May-2026:** Re-checked the 8th API and gained exposure to how Himanshu sir works on real-world projects.
+  * **31-May-2026:** Sunday
