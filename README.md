@@ -171,4 +171,7 @@ Let us C: Chapter-2 The decisions control structures, using Go lang"
   * **30-May-2026:** Re-checked the 8th API and gained exposure to how Himanshu sir works on real-world projects.
   * **31-May-2026:** Sunday
   * **01-Jun-2026:** Checked 9th to 12th API and payload options for c.ReqBody( ). Used payload options to report error for invalid req body or failure in decode of req body. Updated code to use "var" for zero value variables. And used *genes.Spine after route in place of *genes.Context. Added "handler" suffix in route functions. Fixed modified errOrSuccResponse( ) to use in all route functions.
-  * **02-Jun-2026:** Read naming guide. Did required updates in naming in routes and service. 
+  * **02-Jun-2026:** Read naming guide. Did required updates in naming in routes and service.
+  * **03-Jun-2026:** checked naming, commenting and removed unused constants. used APIResponse struct as argument of ErrOrSuccResponse( ).
+  * **04-Jun-2026:** Tested all APIs. Installed updated version of Go 1.26.4 and read about the vs code extension IronEagle, updated required identifiers pointed by IronEagle.
+  * **05-Jun-2026:** Checked all 343 errors shown by linter, solved 200 errors today.
